@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/theofficeback.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    padding: 40px;
+    font-size: 40px;
+    line-height: 45px;
+}
+img {
+    width: 330px;
+    height: 60px;
+}
+h2 {
+    font-size: 30px;
+    text-align: center
+}
+
+#questioncontainer {
+    background-color: white;
+    padding: 40px;
+    width: 40%;
+    margin: auto;
+}
+button {
+    font-size: 24px;
+    margin-left: 130px;
+}
