@@ -24,6 +24,12 @@ h2 {
     width: 40%;
     margin: auto;
 }
+
+#start {
+    padding: 30px;
+    width: 20%;
+    margin-left: 570px;
+}
 button {
     font-size: 24px;
     margin-left: 130px;
